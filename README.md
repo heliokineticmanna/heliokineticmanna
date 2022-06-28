@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arkaprava Manna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India, interested in AI,ML,IoT.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arkaprava manna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkaprava manna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arkaprava-manna-aa578820b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkaprava-manna-aa578820b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19230108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19230108" height="30" width="40" /></a>
-<a href="https://fb.com/arkaprava manna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkaprava manna" height="30" width="40" /></a>
-<a href="https://instagram.com/heliokineticmanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heliokineticmanna" height="30" width="40" /></a>
+<a href="https://fb.com/arka.manna.28082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arka.manna.28082002" height="30" width="40" /></a>
+<a href="https://instagram.com/heliokinetic_manna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heliokinetic_manna" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/arkaprava manna cca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arkaprava manna cca" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/heliokinetic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="heliokinetic" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mannaarkaprava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mannaarkaprava" height="30" width="40" /></a>
